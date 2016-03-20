@@ -1,0 +1,17 @@
+{
+  "name": "checkbook",
+  "version": "0.0.1",
+  "description": "Client for checkbook.io api",
+  "main": "lib/checkbook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "payments",
+    "checkbook.io",
+    "checkbook",
+    "send_check"
+  ],
+  "author": "gisripa@gmail.com",
+  "license": "ISC"
+}
