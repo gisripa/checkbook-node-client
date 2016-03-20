@@ -1,5 +1,5 @@
 {
-  "name": "checkbook",
+  "name": "checkbook.io",
   "version": "0.0.1",
   "description": "Client for checkbook.io api",
   "main": "lib/checkbook.js",

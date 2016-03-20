@@ -3,12 +3,15 @@ Node.js client for checkbook.io
 
 # Usage
 
+`npm install checkbook.io`
+
+
 ```
 // Set key and secret environment variables or assign directly
 var key = process.env.CHECKBOOK_KEY;
 var secret = process.env.CHECKBOOK_SECRET;
 
-var checkbook = require('checkbook')(key, secret);
+var checkbook = require('checkbook.io')(key, secret);
 
 // Default dev, Supported stage, sandbox, prod
 // Realm changes the api endpoint to {realm}.checkbook.io
