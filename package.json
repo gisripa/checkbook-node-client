@@ -2,6 +2,10 @@
   "name": "checkbook.io",
   "version": "0.0.2",
   "description": "Client for checkbook.io api",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/gisripa/checkbook-node-client.git"
+  },
   "main": "lib/checkbook.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
