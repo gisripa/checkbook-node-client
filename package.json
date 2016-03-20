@@ -1,10 +1,10 @@
 {
   "name": "checkbook.io",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Client for checkbook.io api",
-  "repository" : { 
-    "type" : "git", 
-    "url" : "https://github.com/gisripa/checkbook-node-client.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gisripa/checkbook-node-client.git"
   },
   "main": "lib/checkbook.js",
   "scripts": {
